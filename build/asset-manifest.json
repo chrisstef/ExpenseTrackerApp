@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/chrisstef/ExpenseTrackerApp/static/css/main.f872ed4b.chunk.css",
-    "main.js": "/chrisstef/ExpenseTrackerApp/static/js/main.87009a8a.chunk.js",
-    "main.js.map": "/chrisstef/ExpenseTrackerApp/static/js/main.87009a8a.chunk.js.map",
-    "runtime-main.js": "/chrisstef/ExpenseTrackerApp/static/js/runtime-main.2e5abd94.js",
-    "runtime-main.js.map": "/chrisstef/ExpenseTrackerApp/static/js/runtime-main.2e5abd94.js.map",
-    "static/js/2.45767456.chunk.js": "/chrisstef/ExpenseTrackerApp/static/js/2.45767456.chunk.js",
-    "static/js/2.45767456.chunk.js.map": "/chrisstef/ExpenseTrackerApp/static/js/2.45767456.chunk.js.map",
-    "index.html": "/chrisstef/ExpenseTrackerApp/index.html",
-    "static/css/main.f872ed4b.chunk.css.map": "/chrisstef/ExpenseTrackerApp/static/css/main.f872ed4b.chunk.css.map",
-    "static/js/2.45767456.chunk.js.LICENSE.txt": "/chrisstef/ExpenseTrackerApp/static/js/2.45767456.chunk.js.LICENSE.txt"
+    "main.css": "/Expense-Tracker-App/static/css/main.f872ed4b.chunk.css",
+    "main.js": "/Expense-Tracker-App/static/js/main.42aa631c.chunk.js",
+    "main.js.map": "/Expense-Tracker-App/static/js/main.42aa631c.chunk.js.map",
+    "runtime-main.js": "/Expense-Tracker-App/static/js/runtime-main.8401b390.js",
+    "runtime-main.js.map": "/Expense-Tracker-App/static/js/runtime-main.8401b390.js.map",
+    "static/js/2.45767456.chunk.js": "/Expense-Tracker-App/static/js/2.45767456.chunk.js",
+    "static/js/2.45767456.chunk.js.map": "/Expense-Tracker-App/static/js/2.45767456.chunk.js.map",
+    "index.html": "/Expense-Tracker-App/index.html",
+    "static/css/main.f872ed4b.chunk.css.map": "/Expense-Tracker-App/static/css/main.f872ed4b.chunk.css.map",
+    "static/js/2.45767456.chunk.js.LICENSE.txt": "/Expense-Tracker-App/static/js/2.45767456.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e5abd94.js",
+    "static/js/runtime-main.8401b390.js",
     "static/js/2.45767456.chunk.js",
     "static/css/main.f872ed4b.chunk.css",
-    "static/js/main.87009a8a.chunk.js"
+    "static/js/main.42aa631c.chunk.js"
   ]
 }
