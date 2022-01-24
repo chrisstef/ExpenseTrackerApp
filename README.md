@@ -1,8 +1,8 @@
 # Expense Tracker App
 
-Track down your expenses with {use State}!
+Track down your expenses!
 
-Add new Expense feature, filtered by year dropdown menu, and bar visualization!
+ Feel free to add new Expense feature, filtered by year dropdown menu, and bars visualization representing each month.
 
 
 ## Available Scripts
