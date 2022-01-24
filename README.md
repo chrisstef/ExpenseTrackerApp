@@ -12,7 +12,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.
 
-Open <a href="https://chrisstef.github.io/ExpenseTrackerApp/" rel="nofollow">Demo</a>
+## Open <a href="https://chrisstef.github.io/ExpenseTrackerApp/" rel="nofollow">Demo</a>
 too see yourself.
 
 :)
