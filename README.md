@@ -12,6 +12,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.
 
-Open https://chrisstef.github.io/ExpenseTrackerApp/ to view a Demo in your browser.
+Open <a href="https://chrisstef.github.io/ExpenseTrackerApp/" rel="nofollow">Demo</a>
+too see yourself.
 
 :)
