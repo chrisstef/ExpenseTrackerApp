@@ -18,6 +18,7 @@ Runs the app in the development mode.
 ## Open Demo
 Check it Out!
 
-<a href="https://chrisstef.github.io/ExpenseTrackerApp/" rel="nofollow"></a>
+<a href="https://chrisstef.github.io/ExpenseTrackerApp/" rel="nofollow">Demo</a>
 
-:)
+
+Enjoy :)
