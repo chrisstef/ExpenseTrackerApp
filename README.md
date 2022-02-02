@@ -6,6 +6,16 @@ Track down your expenses!
  and bars visualization representing each month.
 
 
+## Languages
+
+```
+- html
+- css
+- javascipt
+- reactjs
+```
+
+
 ## Available Scripts
 
 In the project directory, you can run:
