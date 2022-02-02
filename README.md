@@ -2,7 +2,7 @@
 
 Track down your expenses!
 
- Feel free to add new Expense feature, filtered by year dropdown menu,
+ Feel free to add expenses and track them down, filtered by year dropdown menu 
  and bars visualization representing each month.
 
 
