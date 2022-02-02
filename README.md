@@ -3,7 +3,7 @@
 Track down your expenses!
 
  Feel free to add expenses and track them down, filtered by year dropdown menu 
- and bars visualization representing each month.
+ and bar visualizations representing each month.
  
  
  ## Check it Out!
